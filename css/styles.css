@@ -1,0 +1,19 @@
+nav {
+    text-align: center; 
+    background-color: yellow;
+    width: 100%;
+}
+#one {
+    text-align: center;
+    background-color: green;
+}
+#two {
+    text-align: center;
+    background-color: red;
+}
+footer {
+    
+    text-align: center;
+    background-color: blue;
+    width: 100%;
+}
